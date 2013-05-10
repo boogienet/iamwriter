@@ -1,24 +1,18 @@
+<<<<<<< HEAD
 # Testapp
 
-TODO: Write a gem description
+This gem is our first attempt into writing a desktop program for Ubuntu.
+Our goal was to create a minimalist writing application.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'testapp'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install testapp
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ ruby bin/iamwriter
 
 ## Contributing
 
