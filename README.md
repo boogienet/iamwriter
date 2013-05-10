@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Testapp
+# Iamwriter 
 
 This gem is our first attempt into writing a desktop program for Ubuntu.
 Our goal was to create a minimalist writing application.
@@ -8,7 +7,7 @@ Our goal was to create a minimalist writing application.
 
 Install it yourself as:
 
-    $ gem install testapp
+    $ gem install iamwriter
 
 ## Usage
 
