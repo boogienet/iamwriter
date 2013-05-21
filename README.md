@@ -1,8 +1,10 @@
 # Iamwriter 
 
-This gem is our first attempt into writing a desktop program for Ubuntu.
+The iamwriter desktop app is a minimalist writing tool for Ubuntu.
+
 Our goal was to create a minimalist writing application. There is no menu, and 
-is keyboard command driven.
+is keyboard command driven. We've been giving a lot of thought into it's behavior
+and user interface.
 
 ## Installation
 
